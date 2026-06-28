@@ -1,0 +1,9 @@
+Gene	HGVSg	HGVSp	Consequence	gnomAD_AF	ClinVar_Significance	CADD_Phred	Depth
+BRCA2	chr13:g.32337461G>A	p.Trp2626Ter	stop_gained	0.00002	Pathogenic	34.0	124
+TP53	chr17:g.7674220G>T	p.Arg273Cys	missense	0.00001	Pathogenic	28.5	98
+EGFR	chr7:g.55181378G>A	p.Thr790Met	missense	0.00005	Likely_pathogenic	26.2	150
+LDLR	chr19:g.11100231C>T	p.Pro626Leu	missense	0.0042	Likely_pathogenic	22.1	85
+ACTN2	chr1:g.236853213C>T	p.Ala119Val	missense	0.0350	Benign	11.2	110
+MTHFR	chr1:g.11796321G>A	p.Ala222Val	missense	0.3420	Benign	8.4	115
+TTN	chr2:g.178523101C>T	p.Pro1245Ile	synonymous	0.1200	Benign	1.2	92
+KCNQ1	chr11:g.2486121C>G	p.Val254Leu	missense	0.0008	Uncertain_significance	18.1	105
